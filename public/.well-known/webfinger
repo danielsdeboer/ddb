@@ -1,0 +1,11 @@
+{
+	"subject": "acct:dan@danielsdeboer.com",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://danielsdeboer.com/actor"
+		}
+	]
+}
