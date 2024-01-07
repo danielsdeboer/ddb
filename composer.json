@@ -1,0 +1,12 @@
+{
+    "name": "ddb/ddb",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Deboer",
+            "email": "daniel.s.deboer@gmail.com"
+        }
+    ],
+    "require": {}
+}
